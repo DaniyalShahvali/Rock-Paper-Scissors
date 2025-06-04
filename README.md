@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-This is my first python project. Its about Rock Paper Scissors Game!
+This is my first Python project. It's about the Rock Paper Scissors Game!
